@@ -1,0 +1,28 @@
+Contrasenas recuperadas: 5
+Tiempo de ejecucion: 0.04 segundos
+
+Descripcion de visualizaciones:
+ cracked_passwords_bar.png: Grafico de barras que muestra contrasenas recuperadas vs. no recuperadas.
+ password_length_pie.png: Grafico circular que clasifica contrasenas recuperadas por longitud.
+ password_length_histogram.png: Histograma de distribucion de longitudes de contrasenas recuperadas.
+
+Recomendaciones:
+Usuario: user1, Contrasena: password
+ Recomendacion general: Incluir letras mayusculas, minusculas, numeros y caracteres especiales.
+
+Usuario: user2, Contrasena: 123456
+ Recomendacion: La contrasena tiene menos de 8 caracteres. Usar al menos 8 caracteres.
+ Recomendacion general: Incluir letras mayusculas, minusculas, numeros y caracteres especiales.
+
+Usuario: user3, Contrasena: qwerty
+ Recomendacion: La contrasena tiene menos de 8 caracteres. Usar al menos 8 caracteres.
+ Recomendacion general: Incluir letras mayusculas, minusculas, numeros y caracteres especiales.
+
+Usuario: user4, Contrasena: abc123
+ Recomendacion: La contrasena tiene menos de 8 caracteres. Usar al menos 8 caracteres.
+ Recomendacion general: Incluir letras mayusculas, minusculas, numeros y caracteres especiales.
+
+Usuario: user5, Contrasena: letmein
+ Recomendacion: La contrasena tiene menos de 8 caracteres. Usar al menos 8 caracteres.
+ Recomendacion general: Incluir letras mayusculas, minusculas, numeros y caracteres especiales.
+
