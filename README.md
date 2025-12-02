@@ -47,3 +47,6 @@ password-lab/
 ├── results.txt              # Análisis completo
 ├── cracked_passwords.csv    # Resultados detallados
 └── *.png                    # Gráficos generados
+
+
+(NATALIA SOFIA GARCIA VAZQUEZ - JOSE ROBERTO AGUILAR CASTRO) CIBERSEGURIDAD
